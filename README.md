@@ -1,11 +1,11 @@
 # apod_scraper
-Scrapes all images from APOD website between a given date range.
+Scrapes all images from [APOD (Atronomy Picture of the Day)](https://apod.nasa.gov/apod/astropix.html) between a given date range.
 
 Uses `requests`+` gevent`+` lxml` for superfast scraping and html parsing.
 
 Use this script responsibly. Sending a lot of simultaneous requests will cause load on the the server.
 
-**TODO**: Create a cross-platform Python script to desktop background to APOD.
+**TODO**: Create a cross-platform Python script for changing desktop background to APOD.
 
 ![Matterhorn, Moon, and Meteor ](https://apod.nasa.gov/apod/image/1901/cervin1300vetter.jpg)
 
