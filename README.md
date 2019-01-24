@@ -1,5 +1,5 @@
 # apod_scraper
-Scrapes all images from [APOD (Atronomy Picture of the Day)](https://apod.nasa.gov/apod/astropix.html) between a given date range.
+Scrapes all images from [APOD (Atronomy Picture of the Day)](https://apod.nasa.gov/apod/astropix.html) between a given date range in highest possible resolution.
 
 Uses `requests`+` gevent`+` lxml` for superfast scraping and html parsing.
 
