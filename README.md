@@ -7,6 +7,6 @@ Use this script responsibly. Sending a lot of simultaneous requests will cause l
 
 **TODO**: Create a cross-platform Python script for changing desktop background to APOD.
 
-![Matterhorn, Moon, and Meteor ](https://apod.nasa.gov/apod/image/1901/cervin1300vetter.jpg)
+![M31: The Andromeda Galaxy](https://apod.nasa.gov/apod/image/1812/m31_gendler_1080.jpg)
 
 **NOTE**: This is an educational project. All images belong to their respective copyright holders. You can use the scraped images for personal, non-commercial, non-public fair use. Please note that many APOD images are copyrighted and to use them commercially you must gain explicit permission from the copyright owners. 
